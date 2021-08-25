@@ -10,7 +10,70 @@ title = "实践出真知"
 
 # 更改使用 Hugo 构建网站时使用的默认主题
 theme = "LoveIt"
+# images = ["/resources/starsky.webp"]
+[languages]
+  [languages.en]
+    weight = 1
+    title = "Practise make perfect"
+    languageCode = "en"
+    languageName = "English"
+    [[languages.en.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "Posts"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.en.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "Tags"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.en.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "Categories"
+      url = "/categories/"
+      title = ""
+      weight = 3
 
+  [languages.zh-cn]
+    weight = 2
+    title = "实践出真知"
+    # 网站语言, 仅在这里 CN 大写
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    # 是否包括中日韩文字
+    hasCJKLanguage = true
+    [[languages.zh-cn.menu.main]]
+      identifier = "posts"
+      pre = ""
+      post = ""
+      name = "文章"
+      url = "/posts/"
+      title = ""
+      weight = 1
+    [[languages.zh-cn.menu.main]]
+      identifier = "tags"
+      pre = ""
+      post = ""
+      name = "标签"
+      url = "/tags/"
+      title = ""
+      weight = 2
+    [[languages.zh-cn.menu.main]]
+      identifier = "categories"
+      pre = ""
+      post = ""
+      name = "分类"
+      url = "/categories/"
+      title = ""
+      weight = 3
 [params]
   # LoveIt 主题版本
   version = "0.2.X"
