@@ -41,7 +41,9 @@ theme = "LoveIt"
       url = "/categories/"
       title = ""
       weight = 3
-
+  [languages.en.params]
+   description = "Blog of backend technology"
+   keywords = ["go","kubernetes"]
   [languages.zh-cn]
     weight = 2
     title = "实践出真知"
@@ -74,6 +76,9 @@ theme = "LoveIt"
       url = "/categories/"
       title = ""
       weight = 3
+  [languages.zh-cn.params]
+   description = "后端技术博客"
+   keywords = ["go","kubernetes"]
 [params]
   # LoveIt 主题版本
   version = "0.2.X"
