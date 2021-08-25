@@ -1,0 +1,45 @@
+# ref: https://gaojila.github.io/hugo%E4%BD%BF%E7%94%A8algolia%E6%90%9C%E7%B4%A2/
+language: go
+
+go:
+  - "1.13" # 指定Golang 1.13
+
+install:
+  # 安装最新的hugo
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.87.0/hugo_0.87.0_Linux-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  # 安装搜索插件
+  - npm install atomic-algolia --save-dev
+
+script:
+  # 运行hugo命令
+  - hugo
+  # 生成索引命令
+  - echo "ALGOLIA_ADMIN_KEY=$ALGOLIA_ADMIN_KEY" >> .env
+  - npm run algolia
+
+after_script:
+  # 部署
+  - cd ./public
+  - git config user.name "wtysos11"
+  - git config user.email "wtysos11@163.com"
+  - git add .
+  - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
+  # Github Pages
+  - git push -u origin master
+
+env:
+  global:
+    # Github Pages
+    - GH_REF: "github.com/wtysos11/wtysos11.github.io"
+
+deploy:
+  provider: pages # 重要，指定这是一份github pages的部署配置
+  skip-cleanup: true # 重要，不能省略
+  local-dir: public # 静态站点文件所在目录
+  # target-branch: master # 要将静态站点文件发布到哪个分支
+  github-token: $GITHUB_TOKEN # 重要，$GITHUB_TOKEN是变量，需要在GitHub上申请、再到配置到Travis
+  # fqdn:  # 如果是自定义域名，此处要填
+  keep-history: true # 是否保持target-branch分支的提交记录
+  on:
+    branch: master # 博客源码的分支

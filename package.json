@@ -1,0 +1,20 @@
+{
+  "name": "newblog",
+  "version": "1.0.0",
+  "description": "对于博客而言，最重要的是内容。对于内容而言，最麻烦的是组织。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "algolia": "atomic-algolia"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wtysos11/blogTemplateByHugo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wtysos11/blogTemplateByHugo/issues"
+  },
+  "homepage": "https://github.com/wtysos11/blogTemplateByHugo#readme"
+}
