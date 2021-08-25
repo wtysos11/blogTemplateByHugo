@@ -114,11 +114,14 @@ Hugo同时具备标签（tags）和目录（categories），就目前来说，�
 #### IDE等工具
 * vscode
 * git
+
 #### 云相关
 * vagrant
 * kubernetes
 * docker
 * istio
+#### 其他工具
+* hugo
 
 #### 深度学习
 * tensorflow
