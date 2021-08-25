@@ -21,8 +21,8 @@ script:
 after_script:
   # 部署
   - cd ./public
-  - git config user.name "wtysos11"
-  - git config user.email "wtysos11@163.com"
+  - git config user.name "[wtysos11]"
+  - git config user.email "[wtysos11@163.com]"
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages

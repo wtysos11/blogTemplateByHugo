@@ -234,3 +234,6 @@ theme = "LoveIt"
   name = "Carlo Wu"
   email = "wtysos11@163.com"
   link = "https://github.com/wtysos11/"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]

@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wtysos11/blogTemplateByHugo/issues"
   },
-  "homepage": "https://github.com/wtysos11/blogTemplateByHugo#readme"
+  "homepage": "https://github.com/wtysos11/blogTemplateByHugo#readme",
+  "devDependencies": {
+    "atomic-algolia": "^0.3.19"
+  }
 }
