@@ -20,11 +20,11 @@ script:
 
 after_script:
   # 部署
-  - git config credential.helper "store --file=.git/credentials"
+  - git config --global user.name "wtysos11"
+  - git config --global user.email "wtysos11@163.com"
+  - git config --global credential.helper "store --file=.git/credentials"
   - echo "https://${GITHUB_TOKEN}:@github.com" > .git/credentials
   - cd ./public
-  - git config user.name "wtysos11"
-  - git config user.email "wtysos11@163.com"
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
