@@ -114,7 +114,7 @@ Hugo同时具备标签（tags）和目录（categories），就目前来说，�
 #### IDE等工具
 * vscode
 * git
-
+* linux命令
 #### 云相关
 * vagrant
 * kubernetes
