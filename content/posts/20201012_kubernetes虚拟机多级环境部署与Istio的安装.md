@@ -1,5 +1,5 @@
 ---
-title: "kubernetes虚拟机多级环境部署与Istio的安装"
+title: "在k8s中上线gatling镜像并在内网发送流量"
 date: 2020-10-12T15:44:17+08:00
 tags: ["kubernetes","实验报告"]
 categories: ["操作实践"]
