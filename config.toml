@@ -182,7 +182,7 @@ theme = "LoveIt"
       Trello = false
       Mix = false
    [params.page.comment]
-      enable = false
+      enable = true
       [params.page.comment.utterances]
         enable = true
         # owner/repo
