@@ -124,7 +124,7 @@ theme = "LoveIt"
   [params.home]
    [params.home.profile]
       enable = true
-      subtitle = "Life is like a Markov chain. It is independent of your past, and only depends on your future."
+      subtitle = "Life is like a Markov chain. It is independent of your past, and only depends on your present."
       # 是否为副标题显示打字机动画
       typeit = true
       # 是否显示社交账号
