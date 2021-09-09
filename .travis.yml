@@ -27,7 +27,9 @@ after_script:
   - cd ./public
   - git config pull.rebase false
   - git checkout master
+  - git stash
   - git pull
+  - git stash pop
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
