@@ -27,7 +27,7 @@ after_script:
   - cd ./public
   - git config pull.rebase false
   - git stash
-  - git checkout main
+  - git checkout master
   - git pull
   - git checkout stash -- .
   - git add .
