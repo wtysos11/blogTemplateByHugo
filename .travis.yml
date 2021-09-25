@@ -26,8 +26,8 @@ after_script:
   # - echo "https://${GITHUB_TOKEN}:@github.com" > .git/credentials
   - cd ./public
   - git config pull.rebase false
-  - git checkout master
   - git stash
+  - git checkout master
   - git pull
   - git stash pop
   - git add .
