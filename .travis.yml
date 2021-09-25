@@ -29,7 +29,7 @@ after_script:
   - git stash
   - git checkout main
   - git pull
-  - git stash pop
+  - git checkout stash -- .
   - git add .
   - git commit -m "Update Blog By TravisCI With Build $TRAVIS_BUILD_NUMBER"
   # Github Pages
