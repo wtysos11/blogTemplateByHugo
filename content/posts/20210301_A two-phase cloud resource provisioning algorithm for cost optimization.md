@@ -1,8 +1,10 @@
 ---
-title: "A two-phase cloud resource provisioning algorithm for cost optimization"
+title: A two-phase cloud resource provisioning algorithm for cost optimization
 date: 2021-03-01T19:49:04+08:00
-tags: ["云资源调度"]
-categories: ["计算机论文阅读"]
+tags:
+  - 分类/笔记/科研/资源调度预测
+categories:
+  - 计算机论文阅读
 ---
 
 # A two-phase cloud resource provisioning algorithm for cost optimization

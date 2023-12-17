@@ -1,8 +1,10 @@
 ---
-title: "Business-Driven Long-Term Capacity Planning for SaaS Applications"
+title: Business-Driven Long-Term Capacity Planning for SaaS Applications
 date: 2021-03-01T16:57:04+08:00
-tags: ["云资源调度"]
-categories: ["计算机论文阅读"]
+tags:
+  - 分类/笔记/科研/资源调度预测
+categories:
+  - 计算机论文阅读
 ---
 
 未完成

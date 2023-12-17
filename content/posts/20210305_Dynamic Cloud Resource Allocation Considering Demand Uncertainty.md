@@ -1,8 +1,10 @@
 ---
-title: "Dynamic Cloud Resource Allocation Considering Demand Uncertainty"
+title: Dynamic Cloud Resource Allocation Considering Demand Uncertainty
 date: 2021-03-05T10:46:04+08:00
-tags: ["云资源调度"]
-categories: ["计算机论文阅读"]
+tags:
+  - 分类/笔记/科研/资源调度预测
+categories:
+  - 计算机论文阅读
 ---
 
 # Dynamic Cloud Resource Allocation Considering Demand Uncertainty

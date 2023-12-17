@@ -1,8 +1,11 @@
 ---
-title: "Keras中的Embedding层是如何工作的"
+title: Keras中的Embedding层是如何工作的
 date: 2020-09-08T20:57:04+08:00
-tags: ["问题延申","keras"]
-categories: ["问题"]
+tags:
+  - 计算机/问题
+  - 计算机/深度学习/Keras
+categories:
+  - 问题
 ---
 
 在学习的过程中遇到了这个问题，同时也看到了[SO](https://stats.stackexchange.com/questions/270546/how-does-keras-embedding-layer-work)中有相同的问题。而keras-[github](https://github.com/keras-team/keras/issues/3110)中这个问题也挺有意思的，记录一下。

@@ -1,8 +1,11 @@
 ---
 title: "Recurrent Neural Networks for Time Series Forecasting: Current status and future directions"
 date: 2021-01-19T19:50:04+08:00
-tags: ["时间序列预测","综述文章","RNN"]
-categories: ["计算机论文阅读"]
+tags:
+  - 分类/笔记/科研/时间序列预测
+  - 分类/笔记/科研/文献综述
+categories:
+  - 计算机论文阅读
 ---
 # Recurrent Neural Networks for Time Series Forecasting: Current status and future directions
 2021 International Journal of Forecasting

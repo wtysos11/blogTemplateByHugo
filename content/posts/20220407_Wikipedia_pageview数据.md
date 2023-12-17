@@ -1,10 +1,12 @@
 ---
-title: "Wikipedia pageview数据获取(bigquery)"
+title: Wikipedia pageview数据获取(bigquery)
 date: 2022-04-07T16:41:07+08:00
-tags: ["学术_数据集"]
-categories: ["操作实践"]
-
-summary: "维基百科pageview数据集原始数据获取，可以从bigquery上获得2015年以来的小时级访问数据"
+tags:
+  - 分类/笔记/科研/数据集
+  - 分类/笔记/科研/时间序列预测
+categories:
+  - 操作实践
+summary: 维基百科pageview数据集原始数据获取，可以从bigquery上获得2015年以来的小时级访问数据
 ---
 
 

@@ -1,8 +1,10 @@
 ---
-title: "python日志模块logging学习与快速复习笔记"
+title: python日志模块logging学习与快速复习笔记
 date: 2020-05-05T09:08:04+08:00
-tags: ["python"]
-categories: ["快速复习"]
+tags:
+  - 计算机/python/日志
+categories:
+  - 快速复习
 ---
 
 因为内容比较简单，就不做学习总结了，全部内容归类为快速复习。

@@ -1,8 +1,11 @@
 ---
-title: "kubernetes内部访问服务的方式"
+title: kubernetes内部访问服务的方式
 date: 2021-06-06T16:23:14+08:00
-tags: ["kubernetes","实验报告"]
-categories: ["codebase"]
+tags:
+  - 分类/实践记录
+  - 计算机/云计算/kubernetes
+categories:
+  - codebase
 ---
 
 最近因为实验室集群整体爆炸，需要修改旧服务器的网络配置。为此，需要进行一系列的网络测试。同时，这也是一个新的label系列。总是有一些代码，非常常用，但是用的时候就是找不到，想也想不起来，就非得去查。很难受。

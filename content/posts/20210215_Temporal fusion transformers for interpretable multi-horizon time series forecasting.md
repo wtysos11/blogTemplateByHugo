@@ -1,8 +1,10 @@
 ---
-title: "Temporal fusion transformers for interpretable multi-horizon time series forecasting"
+title: Temporal fusion transformers for interpretable multi-horizon time series forecasting
 date: 2021-02-15T11:00:04+08:00
-tags: ["时间序列预测"]
-categories: ["计算机论文阅读"]
+tags:
+  - 分类/笔记/科研/时间序列预测
+categories:
+  - 计算机论文阅读
 ---
 
 # Temporal fusion transformers for interpretable multi-horizon time series forecasting

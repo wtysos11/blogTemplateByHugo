@@ -1,8 +1,11 @@
 ---
-title: "golang中的赋值:=的一次误用与shadow variable"
+title: golang中的赋值:=的一次误用与shadow variable
 date: 2021-07-08T11:32:14+08:00
-tags: ["Go"]
-categories: ["事件记录"]
+tags:
+  - 计算机/go
+  - 分类/实践记录
+categories:
+  - 事件记录
 ---
 
 今天遇到了一个问题，我需要设置一个循环中的变量用于下一次循环之中。因为修改的时候一些问题（处理err），所以不小心将之前的`=`改为了`:=`。大致如下
