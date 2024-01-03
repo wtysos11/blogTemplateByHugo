@@ -18,6 +18,7 @@ summary: 阅读关于布隆过滤器的综述文章，该论文通过多个方�
 Proverb：最早是围棋中的概念
 
 一些Proverb
+
 * Don't communicate by sharing memory, share memory by communicating.
 * Concurrency is not parallelism.
   * Talk in Waza.
