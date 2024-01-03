@@ -2,7 +2,7 @@
 title: python日志模块logging学习与快速复习笔记
 date: 2020-05-05T09:08:04+08:00
 tags:
-  - 计算机/python/日志
+  - 分类/知识库/计算机/python/日志
 categories:
   - 快速复习
 ---

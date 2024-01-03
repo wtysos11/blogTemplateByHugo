@@ -2,8 +2,8 @@
 title: 如何让pandas根据指定列的指进行partition
 date: 2020-11-22T19:20:04+08:00
 tags:
-  - 计算机/python
-  - 计算机/问题
+  - 分类/知识库/计算机/python
+  - 分类/知识库/计算机/问题
 categories:
   - 问题
 ---

@@ -2,7 +2,7 @@
 title: golang中的赋值:=的一次误用与shadow variable
 date: 2021-07-08T11:32:14+08:00
 tags:
-  - 计算机/go
+  - 分类/知识库/计算机/go
   - 分类/实践记录
 categories:
   - 事件记录

@@ -3,7 +3,7 @@ title: 在k8s中上线gatling镜像并在内网发送流量
 date: 2020-10-12T15:44:17+08:00
 tags:
   - 分类/实践记录
-  - 计算机/云计算/kubernetes
+  - 分类/知识库/计算机/云计算/kubernetes
 categories:
   - 操作实践
 ---

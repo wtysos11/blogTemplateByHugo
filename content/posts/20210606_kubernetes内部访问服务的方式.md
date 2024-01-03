@@ -3,7 +3,7 @@ title: kubernetes内部访问服务的方式
 date: 2021-06-06T16:23:14+08:00
 tags:
   - 分类/实践记录
-  - 计算机/云计算/kubernetes
+  - 分类/知识库/计算机/云计算/kubernetes
 categories:
   - codebase
 ---

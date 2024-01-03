@@ -2,8 +2,8 @@
 title: Keras中的Embedding层是如何工作的
 date: 2020-09-08T20:57:04+08:00
 tags:
-  - 计算机/问题
-  - 计算机/深度学习/Keras
+  - 分类/知识库/计算机/问题
+  - 分类/知识库/计算机/深度学习/Keras
 categories:
   - 问题
 ---

@@ -3,7 +3,7 @@ title: kubernetes服务：学习ingress与暴露服务简单实验
 date: 2021-06-06T16:30:14+08:00
 tags:
   - 分类/实践记录
-  - 计算机/云计算/kubernetes
+  - 分类/知识库/计算机/云计算/kubernetes
 categories:
   - 操作实践
 ---

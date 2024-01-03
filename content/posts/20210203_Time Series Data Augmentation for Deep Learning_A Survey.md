@@ -2,8 +2,8 @@
 title: "Time Series Data Augmentation for Deep Learning: A Survey"
 date: 2021-02-03T14:24:04+08:00
 tags:
-  - 分类/笔记/科研/时间序列预测
-  - 分类/笔记/科研/文献综述
+  - 分类/学习/学习笔记/笔记/科研/时间序列预测
+  - 分类/学习/学习笔记/笔记/科研/文献综述
 categories:
   - 计算机论文阅读
 ---
