@@ -2,10 +2,11 @@
 title: bottleneck detection
 date: 2020-04-22T17:36:04+08:00
 tags:
-  - 分类/论文/论文总结
-  - 分类/学习/学习笔记/笔记/科研/微服务调度
+  - 内容/停止更新/论文总结
+  - 计算机/微服务调度
 categories:
   - 计算机论文阅读
+modified: 2024-01-21
 ---
 
 [原文地址](https://github.com/wtysos11/blogWiki/issues/22)

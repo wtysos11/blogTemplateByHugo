@@ -2,9 +2,10 @@
 title: Response Time Characterization of Microservice-Based Systems
 date: 2020-04-23T17:21:04+08:00
 tags:
-  - 分类/学习/学习笔记/笔记/科研/微服务调度
+  - 计算机/微服务调度
 categories:
   - 计算机论文阅读
+modified: 2024-01-21
 ---
 
 [原文地址](https://github.com/wtysos11/blogWiki/issues/23)

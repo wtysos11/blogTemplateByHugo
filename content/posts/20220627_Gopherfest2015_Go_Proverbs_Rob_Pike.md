@@ -2,12 +2,12 @@
 title: Gopherfest 2015：Go Proverbs with Rob Pike
 date: 2022-06-27T21:13:15+08:00
 tags:
-  - 分类/状态/待完善
-  - 分类/知识库/计算机/go
-  - 分类/学习/学习笔记
+  - 计算机/go
+  - 内容/学习笔记
 categories:
   - 计算机视频学习笔记
 summary: 阅读关于布隆过滤器的综述文章，该论文通过多个方面分析了现有的布隆过滤器及其变体的实现与性能
+modified: 2024-01-21
 ---
 # Gopherfest 2015：Go Proverbs with Rob Pike
 

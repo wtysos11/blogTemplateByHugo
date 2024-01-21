@@ -2,8 +2,8 @@
 title: golang基础问题：X does not implement Y (... method has a point receiver)
 date: 2021-06-12T10:38:14+08:00
 tags:
-  - 分类/知识库/计算机/问题/问题解答
-  - 分类/知识库/计算机/go
+  - 计算机/问题/问题解答
+  - 计算机/go
 categories:
   - Go基础学习
 ---
