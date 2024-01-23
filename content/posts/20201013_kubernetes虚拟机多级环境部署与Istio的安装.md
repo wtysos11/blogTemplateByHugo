@@ -3,7 +3,7 @@ title: kubernetes虚拟机多级环境部署与Istio的安装
 date: 2020-10-13T12:37:13+08:00
 tags:
   - 内容/实践记录
-  - 计算机/云计算/kubernetes/istio
+  - 计算机/kubernetes/istio
 categories:
   - 操作实践
 ---
