@@ -2,7 +2,7 @@
 title: Wikipedia pageview数据获取(bigquery)
 date: 2022-04-07T16:41:07+08:00
 tags:
-  - 收集/数据集
+  - 收藏/数据集
   - 计算机/科研/时间序列预测
 categories:
   - 操作实践
